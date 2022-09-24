@@ -57,6 +57,13 @@ where $TP$ the true positives, $TN$ true negatives, $FN$ false negatives, $FP$ f
 
 For more deep information please don't hesitate to open the main.ipynb.
 
+## Documentation to highlight
+
+* [Sckit-Learn Documentation](https://scikit-learn.org/stable/index.html#)
+* [StandardScaler vs MinMaxScaler](https://stackoverflow.com/questions/61255108/python-numpy-ravel-function-not-flattening-array)
+* [Video: Scaling, Normalization and Standardization (Spanish)](https://www.youtube.com/watch?v=-VuR14Qyl7E&lc=UgyGv3R3K4siP3YPgLh4AaABAg.9gDcR4wNAti9gDnlbOEOx4)
+* [Video: How to implement One Hot Encoding](https://www.youtube.com/watch?v=InZ0n2knz1E&lc=UgymfF3vTXC8PFTFOZR4AaABAg.9gAv8UJZvWe9gBrEABT8oV)
+
 ## Contact
 
 Greetings,
